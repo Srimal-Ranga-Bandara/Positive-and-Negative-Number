@@ -15,16 +15,16 @@ public static void checkNumber(int number){
         System.out.println(" ....... Positive Number .......... ");
     }
 
-    else if(number<0) {
-
-        System.out.println(" ....... Negative Number .......... ");
-        
-    } 
+    
     else {
 
+        System.out.println(" ........ Zero Number .......... ");
+        System.out.println(" ........ Zero Number .......... ");
+        System.out.println(" ........ Zero Number .......... ");
         System.out.println(" ........ Zero Number .......... ");
         
     }
     }
 }
+
 
